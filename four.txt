@@ -1,4 +1,2 @@
 four
-44
-
-He's able
+44--
